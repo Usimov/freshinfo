@@ -16,3 +16,5 @@ function inline_php($content){
     return $content;
 }
 add_filter('the_content', 'inline_php', 0);
+
+
