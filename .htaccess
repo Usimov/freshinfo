@@ -8,6 +8,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /freshinfo/index.php [L]
 </IfModule>
 
-DirectoryIndex index.php
- 
 # END WordPress
