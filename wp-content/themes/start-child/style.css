@@ -13,3 +13,18 @@
 */
 
 @import url('../start/style.css');
+
+.site-header {
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+.site-header h1, h2 {
+    clear: none;
+}
+
+.site-header ul {
+    float: right;
+}
+
